@@ -36,14 +36,6 @@
 
 <br>
 
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MD-HASIB-HOSSEN&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
