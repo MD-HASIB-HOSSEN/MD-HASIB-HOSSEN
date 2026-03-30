@@ -191,7 +191,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://t.me/HasibHossenTech">
+        <a href="https://t.me/+5VqU4mPSF9k5NGVl">
           <img src="https://skillicons.dev/icons?i=telegram" width="50" height="50" />
           <br>
           <b>Telegram</b>
