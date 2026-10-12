@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://hasibhossen.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-  <a href="https://t.me/HASIB_FREE_INTERNET"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/+XcU5wk8Wy6YxNjNl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@HasibHossenTech"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://www.facebook.com/HasibHossenBack"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://github.com/MD-HASIB-HOSSEN"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -191,7 +191,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://t.me/HASIB_FREE_INTERNET">
+        <a href="https://t.me/+XcU5wk8Wy6YxNjNl">
           <img src="https://skillicons.dev/icons?i=telegram" width="50" height="50" />
           <br>
           <b>Telegram</b>
@@ -344,7 +344,7 @@ Other      1 hr 5 mins     █░░░░░░░░░░░░░░░░�
 
   <p>
     <a href="https://hasibhossen.pro.bd/">🌐 Website</a> •
-    <a href="https://t.me/HASIB_FREE_INTERNET">📱 Telegram</a> •
+    <a href="https://t.me/+XcU5wk8Wy6YxNjNl">📱 Telegram</a> •
     <a href="https://www.youtube.com/@HasibHossenTech">▶️ YouTube</a> •
     <a href="https://www.facebook.com/HasibHossenBack">📘 Facebook</a> •
     <a href="https://github.com/MD-HASIB-HOSSEN">💻 GitHub</a>
